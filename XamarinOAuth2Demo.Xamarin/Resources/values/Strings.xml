@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Loggati come Mario</string>
+    <string name="ApplicationName">XamarinOAuth2Demo.Xamarin</string>
+</resources>
